@@ -25,7 +25,7 @@ Consulta de recursos por id
 Consulta de todos recursos
 
 
-Requisitos
+## Requisitos
 
 certifique-se de ter as seguintes ferramentas na maquina:
 
@@ -33,7 +33,7 @@ Qualquer navagador web para acesso ao Swagger
 
 Postman
 
-Endpoints
+## EndPoints
 
 
 Método	Endpoint		Descrição
@@ -44,7 +44,7 @@ PUT	/api/recurso/{id}	Atualiza um recurso existente por ID
 DELETE	/api/recurso/{id}	Remove um recurso existente por ID
 
 
-Respostas
+## Respostas
 
 Código	Descrição
 200	OK - Requisição bem-sucedida
@@ -54,4 +54,4 @@ Código	Descrição
 500	Internal Server Error - Erro interno no servidor
 
 
-Exemplos de Requisições
+## Exemplos de Requisições

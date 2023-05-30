@@ -10,7 +10,7 @@ Tabela de conteúdos
 * [Requisitos](#requisitos)
 * [Endpoints](#endpoints)
 * [Respostas](#respostas)
-* [Exemplos_de_Requisições](#exemplos de Requisições)
+* [Requisilções](#Requisições)
 
 
 ## Descrição 
@@ -54,4 +54,4 @@ Código	Descrição
 500	Internal Server Error - Erro interno no servidor
 
 
-## Exemplos_De_Requisições
+## Requisições

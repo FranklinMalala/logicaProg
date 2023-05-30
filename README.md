@@ -55,3 +55,4 @@ certifique-se de ter as seguintes ferramentas na maquina:
 
 
 ## Exemlo_De_Requisições
+![teste](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNight&psig=AOvVaw3Fn6jomT6ijcJkjVTlx5Er&ust=1685564615207000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjQn9Pvnf8CFQAAAAAdAAAAABBt)

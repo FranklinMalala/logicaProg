@@ -55,4 +55,10 @@ certifique-se de ter as seguintes ferramentas na maquina:
 
 
 ## Exemlo_De_Requisições
-![abobora](https://github.com/FranklinMalala/logicaProg/assets/127156179/12c419e1-2a01-4e4f-8685-a486b2076716)
+<h1 align="center"> Desenvolvedores do Projeto: </h1> 
+
+[Ricardo Ponte](https://github.com/RicardoPonte/)
+
+
+</h1>
+

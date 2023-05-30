@@ -55,10 +55,10 @@ certifique-se de ter as seguintes ferramentas na maquina:
 
 
 ## Exemlo_De_Requisições
-<h1 align="center"> Desenvolvedores do Projeto: </h1> 
+
 
 [Ricardo Ponte](https://github.com/RicardoPonte/)
 
 
-</h1>
+
 

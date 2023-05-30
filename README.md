@@ -36,7 +36,7 @@ certifique-se de ter as seguintes ferramentas na maquina:
 ## EndPoints
 
 
--Método	 Endpoint		      Descrição</br>
+-Método &#09	 Endpoint		&#09      Descrição</br>
 -GET	  /api/recurso		  Retorna todos os recursos</br>
 -GET	  /api/recurso/{id}	Retorna um recurso específico por ID</br>
 -POST	  /api/recurso		  Cria um novo recurso</br>
